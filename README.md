@@ -34,6 +34,10 @@ Student Management System
 
 A command-line application built with Python.
 
+[Student Management System](https://github.com/nahomgetachew-dev/student-management-system)
+
+A command-line student management application built with Python.
+
 Features:
 - Student registration
 - Search student records
